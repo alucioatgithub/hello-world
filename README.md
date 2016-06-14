@@ -1,2 +1,1 @@
-# hello-world
-just another repository
+Hello world, GT here, please accept my message.
